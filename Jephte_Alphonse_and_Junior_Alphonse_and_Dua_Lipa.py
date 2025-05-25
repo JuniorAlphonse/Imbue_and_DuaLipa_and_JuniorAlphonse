@@ -15,7 +15,8 @@ probability_list = [0.0, 1.0, 2.0, 3.0, 6.0, 7.0];
 
 # Phase Two Step 1: Generative AI Constants and Establishment
 
-def Nangential(circle):
+def Nangential(circle, num):
+        num = 22;
         z = print(str("Goodbye!"));
         Limit_Zero = (1 / 1);
         y = 0;
@@ -27,10 +28,10 @@ def Nangential(circle):
         epsilon_fifteen_thousand_compositions = 5;
         episilo = 777 * 10**9; 
         Capacitance = 0.25 * Limit_Zero; 
-        print(z, Limit_Zero, y, a, circle, b, base, c, d, epsiolon_limit_xerox, episilo, Capacitance);
+        print(num, z, Limit_Zero, y, a, circle, b, base, c, d, epsiolon_limit_xerox, episilo, Capacitance);
 
 ## Functional Run Check;
 e = -1;
-print(str("DUALIPADuality = 100 * 100 * 100 * 100 * 100 * 100")); 
+print(str("DUALIPADuality = 100 * 100 * 100 * 100 * 100 * 100 * 100")); 
 circle = 14 * log2(int(6));
-Nangential(circle);
+Nangential(circle, 22);
