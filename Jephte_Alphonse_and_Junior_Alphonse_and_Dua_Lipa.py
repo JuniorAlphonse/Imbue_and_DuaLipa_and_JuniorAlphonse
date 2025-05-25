@@ -11,7 +11,7 @@ from  math import log2
 # Step 1: List all of the probabilities of "microstates" or possible outcomes to be more general
 # Note about the definition of the period is, as per Junior E. Alphonse AND(and) Nina Alphonse 
 
-probability_list = [1.95601150271, 1.0, 2.0, 3.0];
+probability_list = [0.0, 1.0, 2.0, 3.0, 6.0, 7.0];
 
 # Phase Two Step 1: Generative AI Constants and Establishment
 
