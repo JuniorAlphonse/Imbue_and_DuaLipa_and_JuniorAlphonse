@@ -33,8 +33,8 @@ def Nangential(circle):
 e = -1;
 print(str("DUALIPADuality = 100 * 100 * 100 * 100 * 100 * 100 * 100")); 
 circle = 564 * log2(int(676));
-Nangential(circle);m
-mk
+Nangential(circle);
+
 def WiseClock(nu):
         count -= (nu - 1);t
         base = 10;
