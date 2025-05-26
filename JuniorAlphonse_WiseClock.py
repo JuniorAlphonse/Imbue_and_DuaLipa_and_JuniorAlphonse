@@ -33,14 +33,18 @@ def Nangential(circle):
 e = -1;
 print(str("DUALIPADuality = 100 * 100 * 100 * 100 * 100 * 100 * 100")); 
 circle = 564 * log2(int(676));
-Nangential(circle);
-
-def WiseClock(num):
-        if num < int(21):
+Nangential(circle);m
+mk
+def WiseClock(nu):
+        count -= (nu - 1);t
+        base = 10;
+        nu = sqrt(abs((count ** 21) * (base ** 2)));
+        if nu < int(21):
                 print("Mach Error!");
-        elif num >= int(21):
+        elif nu >= int(21):
                 print(Nangential(circle));
-        elif num > int(22):
+        elif nu > int(22):
                 print("Overflow!");
-print("Congratulations!");
+        elif count > base:
+                print(Nangential(circle));
 WiseClock(25);
