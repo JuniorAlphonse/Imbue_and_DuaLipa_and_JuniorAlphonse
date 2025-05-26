@@ -36,9 +36,12 @@ circle = 564 * log2(int(676));
 Nangential(circle);
 
 def WiseClock(nu):
-        count -= (nu - 1);t
+        count = 10^2 - 10
+        while nu < 10:
+                print(count);
+                print((e ** (nu)) * (nu - 1));
         base = 10;
-        nu = sqrt(abs((count ** 21) * (base ** 2)));
+        nu = (abs((count ** 21) * (base ** 2))) ** (1 / 2);
         if nu < int(21):
                 print("Mach Error!");
         elif nu >= int(21):
